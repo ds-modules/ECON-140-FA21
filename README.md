@@ -1,8 +1,8 @@
 # ECON-140-FA21
 Public Repo for Economics 140
 
-| Assignment  | NBgitpuller Link  |   |
-|---|---|---|
+| Assignment  | NBgitpuller Link  |  
+|---|---|
 | Problem Set 0  | [![UCBDatahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FECON-140-FA21.git&urlpath=tree%2FECON-140-FA21.git%2Fps0%2Fps0.ipynb&branch=main)  |  
 | Problem Set 1  |  [![UCBDatahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FECON-140-FA21.git&urlpath=tree%2FECON-140-FA21.git%2Fps1%2Fps1.ipynb&branch=main) |  
 | Problem Set 2  |  [![UCBDatahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FECON-140-FA21.git&urlpath=tree%2FECON-140-FA21.git%2Fps2%2Fps2.ipynb&branch=main) |  
